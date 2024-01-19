@@ -1,5 +1,5 @@
 <?php
-class ValidateNameV3
+class Validate
 {
     //==============================================================================
     function vn_spell_one_char($str)
